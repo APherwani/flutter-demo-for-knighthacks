@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/audioplayers.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		j6/MIXcQfuFKeLzAZQGFdcR46TU=
+		bwGf/XaJ++uRHuaJObO11vfryOk=
 		</data>
 		<key>Modules/audioplayers.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		j6/MIXcQfuFKeLzAZQGFdcR46TU=
+		bwGf/XaJ++uRHuaJObO11vfryOk=
 		</data>
 		<key>Modules/audioplayers.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/audioplayers.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hmw6lcrczOPch8eRkzJcRkfk8J4=
+		2KM9cPFUMjla4OrSVXCQjXoZcXg=
 		</data>
 		<key>Modules/audioplayers.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/audioplayers.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		hmw6lcrczOPch8eRkzJcRkfk8J4=
+		2KM9cPFUMjla4OrSVXCQjXoZcXg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -88,22 +88,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j6/MIXcQfuFKeLzAZQGFdcR46TU=
+			bwGf/XaJ++uRHuaJObO11vfryOk=
 			</data>
 			<key>hash2</key>
 			<data>
-			MmXl7KWs7XGu2uXuK2gD82tgbyAxZlAFocSMpMB3WQM=
+			t8zSIH7/WXvSKViVTN72nqZ1W0yDMWutFGBQk+fhehw=
 			</data>
 		</dict>
 		<key>Modules/audioplayers.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j6/MIXcQfuFKeLzAZQGFdcR46TU=
+			bwGf/XaJ++uRHuaJObO11vfryOk=
 			</data>
 			<key>hash2</key>
 			<data>
-			MmXl7KWs7XGu2uXuK2gD82tgbyAxZlAFocSMpMB3WQM=
+			t8zSIH7/WXvSKViVTN72nqZ1W0yDMWutFGBQk+fhehw=
 			</data>
 		</dict>
 		<key>Modules/audioplayers.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -121,11 +121,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hmw6lcrczOPch8eRkzJcRkfk8J4=
+			2KM9cPFUMjla4OrSVXCQjXoZcXg=
 			</data>
 			<key>hash2</key>
 			<data>
-			0BqbfOhZAPrxRjB4NBEzEJd2gGuDIi4jqS/7dlMeOtc=
+			u2pZI2roRp163oVnhcc0kZFJPtLYJBRVYKhKQiFK9Ds=
 			</data>
 		</dict>
 		<key>Modules/audioplayers.swiftmodule/x86_64.swiftdoc</key>
@@ -143,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hmw6lcrczOPch8eRkzJcRkfk8J4=
+			2KM9cPFUMjla4OrSVXCQjXoZcXg=
 			</data>
 			<key>hash2</key>
 			<data>
-			0BqbfOhZAPrxRjB4NBEzEJd2gGuDIi4jqS/7dlMeOtc=
+			u2pZI2roRp163oVnhcc0kZFJPtLYJBRVYKhKQiFK9Ds=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

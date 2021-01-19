@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
                     noiseName: 'Crash',
                     fileName: 'crash.mp3'),
                 ButtonWidget(
-                    color: Colors.lightBlue,
+                    color: Colors.orange,
                     noiseName: 'Real Airhorn',
                     fileName: 'mlg-airhorn.mp3'),
                 ButtonWidget(
