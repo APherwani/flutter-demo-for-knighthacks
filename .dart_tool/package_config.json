@@ -33,7 +33,7 @@
     },
     {
       "name": "audioplayers",
-      "rootUri": "file:///Users/arjunpherwani/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.17.2",
+      "rootUri": "file:///Users/arjunpherwani/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.17.0",
       "packageUri": "lib/",
       "languageVersion": "2.6"
     },
@@ -416,7 +416,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-01-18T22:07:54.143141Z",
+  "generated": "2021-01-19T01:40:14.902126Z",
   "generator": "pub",
   "generatorVersion": "2.12.0-133.2.beta"
 }
